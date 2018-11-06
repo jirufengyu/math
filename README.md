@@ -1,2 +1,2 @@
 # math
-no description,because i am newer
+在数模组的学习
